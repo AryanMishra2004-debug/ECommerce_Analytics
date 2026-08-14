@@ -1,0 +1,5 @@
+data/raw/*.csv
+data/raw/*.zip
+__pycache__/
+*.pyc
+load_log.txt
